@@ -1,5 +1,0 @@
-txt
-
-pandas
-streamlit
-ploty
